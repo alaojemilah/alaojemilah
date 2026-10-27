@@ -1,6 +1,6 @@
-# Hi, I'm Jemilah Alao 👋
+# Hi, I'm Jemilah Alao 
 
-### Data Analyst | Aspiring Machine Learning Engineer
+### Data Analyst | Machine Learning Engineer
 
 I combine data analysis and machine learning with hands-on operations experience. My background in agriculture has taught me how accurate data can help people understand performance, investigate problems, and make better decisions.
 
